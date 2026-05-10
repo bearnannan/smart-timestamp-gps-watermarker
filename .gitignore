@@ -1,0 +1,17 @@
+# Python standard ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+
+# Project specific ignores
+config.json
+Android-RobotoTextView/
+*.jpg
+*.jpeg
+*.png
